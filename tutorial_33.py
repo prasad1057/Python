@@ -5,7 +5,6 @@
 
 
 
-
 # dic = {
 #     "prasad": "Human Being",
 #     "spoon": "object"
