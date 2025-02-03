@@ -1,5 +1,6 @@
 # /////Strings Slicing & Operations on String///////
 
+
 names = "prasad,karan"
 print(names[0:6])    # used to find length of a string (output is prasad)
 
