@@ -1,5 +1,6 @@
 # //////Strings Methods///
 
+
 # upper
 # lower
 # rstrip
