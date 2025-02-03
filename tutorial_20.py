@@ -7,6 +7,7 @@
 # gmean = (a*b)/(a+b)
 # print("gmean is = ",gmean)
 
+
 def calculateGmean (a , b):
     mean = (a*b)/(a+b)
     print(mean)
