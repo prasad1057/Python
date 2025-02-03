@@ -1,5 +1,6 @@
 # /////Strings///////
 
+
 name = "prasad"
 apple = '''hi 
 karan
