@@ -1,6 +1,7 @@
 # ////  Exception Handling ////
 
 
+
 # a = input("Enter the number :")
 # print(f"Multiplication table of {a} is : ")
 # try:
