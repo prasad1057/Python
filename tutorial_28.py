@@ -8,6 +8,7 @@ name = "Prasad"
 print(f"Hey my name is {name} and i am from {country}")
 print(f"Hey my name is {{name}} and i am from {{country}}")
 
+
 # string = "your name is {} and you are from {}"
 # name = "karan"
 # country = "England"
