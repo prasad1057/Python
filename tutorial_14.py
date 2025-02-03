@@ -1,7 +1,6 @@
 #/////// IfElse Conditional Statement///////
 
 
-
 # Conditional Operator
 #  >, <, <=, >=, ==, !=
 
