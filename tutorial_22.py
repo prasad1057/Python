@@ -1,5 +1,6 @@
 #/// Introduction to List////
 
+
 marks = [3, 4, 5, "prasad", True, 12, 13, 14, 15,"karan", 23, 24, 45, 56, 57, 67, 78, 789]
 print(marks)
 print(len(marks))
