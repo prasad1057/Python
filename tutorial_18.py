@@ -1,6 +1,7 @@
 # ////////While Loops////////
 
 
+
 # j = int(input("Enter the value : "))
 # while(j<=10):
 #     j = int(input("Enter the number :"))
