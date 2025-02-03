@@ -1,5 +1,6 @@
 # /// Kaun banega Crorepati ///
 
+
 questions = [
 ["Which language was used to create FB ?", "Python", "French", "JavaScript", "Php", "None", 4],
 ["Which language was used to create FB ?", "Python", "French", "JavaScript", "Php", "None", 4],
