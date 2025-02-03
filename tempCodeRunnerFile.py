@@ -7,5 +7,6 @@ print(info.get("age"))
 print(info["eligible"])
 print(info.get("eligible"))
 
+
 # print(info.get("name2"))                     #when there is no related key in this , then it gives None answer(here name2 is not present)
 # print(info["name2"])    
