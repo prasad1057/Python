@@ -4,6 +4,7 @@ hour = int(time.strftime('%H'))
 # hour = int(input("ENter hour :"))
 # print(hour)
 
+
 if(hour >= 0 and hour < 12):
     print("Good Morning Sir!!")
 elif(hour < 12 and hour >= 17):
